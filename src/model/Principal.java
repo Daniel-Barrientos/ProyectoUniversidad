@@ -14,6 +14,8 @@ public class Principal {
         DocentePlanta planta1 = new DocentePlanta(1000000, 10, 50000, "Auxiliar", "123", "01/02/2023", "Jaider ", 112, "Ing", "Sistemas");
         
         
+        
+        
     }
 
 }
